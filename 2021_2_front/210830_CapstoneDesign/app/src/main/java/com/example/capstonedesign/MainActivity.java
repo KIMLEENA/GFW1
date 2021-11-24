@@ -100,7 +100,7 @@ public class MainActivity extends AppCompatActivity {
             @Override
             public void onClick(View v) {
                 AlertDialog.Builder builder = new AlertDialog.Builder(MainActivity.this);
-                builder.setMessage("'러닝 메이트'에서 '카카오톡'을(를) 열려고 합니다.");
+                builder.setMessage("'Running Mate'에서 '카카오톡'을(를) 열려고 합니다.");
                 builder.setPositiveButton("열기", new DialogInterface.OnClickListener() {
                     @Override
                     public void onClick(DialogInterface dialog, int which) {
@@ -126,7 +126,7 @@ public class MainActivity extends AppCompatActivity {
             @Override
             public void onClick(View v) {
                 AlertDialog.Builder builder = new AlertDialog.Builder(MainActivity.this);
-                builder.setMessage("'러닝 메이트'에서 '네이버'를(을) 열려고 합니다.");
+                builder.setMessage("'Running Mate'에서 '네이버'를(을) 열려고 합니다.");
                 builder.setPositiveButton("열기", new DialogInterface.OnClickListener() {
                     @Override
                     public void onClick(DialogInterface dialog, int which) {
