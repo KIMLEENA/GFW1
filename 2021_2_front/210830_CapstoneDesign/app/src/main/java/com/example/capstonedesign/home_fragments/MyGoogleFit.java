@@ -191,10 +191,8 @@ public class MyGoogleFit {
 
         Arrays.fill(newFriData,0);
 
-        int counter = period - 1;
-        for(float temp : friData){
-            newFriData[counter] = temp;
-            counter--;
+        for(int counter = period - 1, i = 0; counter >= 0; counter--, i++){
+            newFriData[counter] = friData[i];
         }
 
         ArrayList<Entry> entry_chart1 = new ArrayList<>();
