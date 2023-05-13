@@ -12,8 +12,6 @@ Android Studio, Flask Server, FCM Server, MySQL Database
 2. 기능으로는 회원가입, 로그인, 일일 걸음 수 확인, 그래프 비교 분석, 랭킹 시스템 등의 기능을 구현하였다.
 <br/>
 
-
-
 ### Client
 1. 사용자 정보를 관리하기 위해 MySQL Database를 사용하였고, 스스로 연결을 만들어 구조화시킬 수 있는 Flask도 사용하였다.
 2. 연결된 Database와 회원 가입 화면이나 로그인 화면, 친구목록, 메시지 전송 등을 연결하여 사용자가 입력한 정보들을 서버에 저장시킬 수 있도록 만들었다.
