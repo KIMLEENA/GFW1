@@ -14,6 +14,6 @@ Android Studio, Flask Server, FCM Server, MySQL Database
 
 
 
-## Client
+### Client
 1. 사용자 정보를 관리하기 위해 MySQL Database를 사용하였고, 스스로 연결을 만들어 구조화시킬 수 있는 Flask도 사용하였다.
 2. 연결된 Database와 회원 가입 화면이나 로그인 화면, 친구목록, 메시지 전송 등을 연결하여 사용자가 입력한 정보들을 서버에 저장시킬 수 있도록 만들었다.
