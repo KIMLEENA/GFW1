@@ -10,7 +10,6 @@ Android Studio, Flask Server, FCM Server, MySQL Database
 ### Server
 1. UI/UX 설계를 기반으로 안드로이드 스튜디오를 사용하여 자바 기반 앱 코드를 작성하였다.
 2. 기능으로는 회원가입, 로그인, 일일 걸음 수 확인, 그래프 비교 분석, 랭킹 시스템 등의 기능을 구현하였다.
-<br/>
 
 ### Client
 1. 사용자 정보를 관리하기 위해 MySQL Database를 사용하였고, 스스로 연결을 만들어 구조화시킬 수 있는 Flask도 사용하였다.
